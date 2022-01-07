@@ -1,169 +1,169 @@
 <p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/logo.png' width='300'></p>
 
-| [Главная страница](https://soontoken.github.io) | [Дорожная карта](/roadmap) | [Вестинг](/vesting/) | [Tokenomics](https://docs.google.com/spreadsheets/d/1Jj3XlLC6MkDi6-cvHPL6PpJ5IXD96dJd0UckqNrWv-A/edit#gid=0) | [Crowdsale](/Crowdsale/) | [Аудит](/audits/) | [docs](/docs/) |
+| [Main page](https://soontoken.github.io) | [Roadmap](/roadmap) | [Vesting](/vesting/) | [Tokenomics](https://docs.google.com/spreadsheets/d/1Jj3XlLC6MkDi6-cvHPL6PpJ5IXD96dJd0UckqNrWv-A/edit#gid=0) | [Crowdsale](/Crowdsale/) | [Audit](/audits/) | [docs](/docs/) |
 
-# Дорожная карта токена SOON на блокчейне Everscale
+# SOON token roadmap on the Everscale blockchain
 
-* [Токен SOON](#токен-soon)
+* [SOON token](#soon-token)
 * [Crowdsale](#crowdsale)
-* [Выпуск эмиссии токена.](#выпуск-эмиссии-токена)
-* [Создание мульти-сигнатурного кошелька SOON Alliance.](#создание-мульти-сигнатурного-кошелька-soon-alliance)
-* [Вознаграждение участникам SOON Alliance.](#вознаграждение-участникам-soon-alliance)
-* [Выделение токенов на маркетинг.](#выделение-токенов-на-маркетинг)
-* [Пул ликвидности и фарминг.](#пул-ликвидности-и-фарминг)
-* [Создание пула ликвидности.](#создание-пула-ликвидности)
-* [Root токена SOON.](#root-токена-soon)
-* [Коллаборация с токенами не из WhiteList от Broxus.](#коллаборация-с-токенами-не-из-whitelist-от-broxus)
-* [TVL токена SOON > $100 000](#tvl-токена-soon--100-000)
-* [Листинг на tonswap.io в WhiteList](#листинг-на-tonswapio-в-whitelist)
+* [Token issuance.](#token-issuance)
+* [Creating SOON Alliance multi-signature wallet.](#creation-multi-signature-wallet-soon-alliance)
+* [Rewards for SOON Alliance members.](#rewards-for-soon-alliance-members)
+* [Allocation tokens for marketing.](#allocation-tokens-for-marketing)
+* [Liquidity Pool and Farming.](#liquidity-pool-and-farming)
+* [Liquidity pool creation.](#-liquidity-pool-creation)
+* [SOON token Root.](#soon-token-root)
+* [Collaboration with non-WhiteList tokens from Broxus.](#collaboration-with-non-whiteList-tokens-from-broxus)
+* [SOON token TVL > $100 000](#soon-token-tvl--100-000)
+* [Listing on tonswap.io in WhiteList](#listing-on-tonswapio-in-whitelist)
 * [SOON Alliance](#soon-alliance)
-* [Контакты](#контакты)
+* [Contact](#contact)
 
-## Токен SOON
+## SOON Token
 
-SOON - Мем-токен типа TIP-3/Broxus на блокчейне Everscale.
+SOON is a TIP-3/Broxus type meme token on the Everscale blockchain.
 
 |  | Main details |
 |:----------:|:----------:|
 | Address | [0:A88B380064DAD1520F09E6ED1162CE79272503A6D443FC938FAEAABD135C294D](https://tonscan.io/accounts/0:A88B380064DAD1520F09E6ED1162CE79272503A6D443FC938FAEAABD135C294D) |
-| Total supply | Конечная эмиссия токена будет зависеть от проведенного Crowdsale |
+| Total supply | Final issuance of the token will depend on the Crowdsale conducted |
 | Decimals | 4 |
 
-Эмиссия токена будет распределена следующим образом:
+Token issuance will be allocated as follows:
 
-- 10% эмиссии токенов SOON будет выделено на Crowdsale (с вестингом от 2 до 6 месяцев, согласно условиям Crowdsale)
-- 10% эмиссии токенов SOON будет выделено на маркетинг
-- 10% эмиссии токенов SOON будет выделено на вознаграждение участников SOON Alliance (с вестингом на 1 год)
-- 40% эмиссии токенов SOON будет выделено на создание пулов ликвидности
-- 30% эмиссии токенов SOON будет заблокированно в фарминге
+- 10% of SOON token issuance will be allocated to Crowdsale (with a lead time of 2 to 6 months, according to Crowdsale terms)
+- 10% of SOON issuance will be allocated to marketing
+- 10% of SOON issuance will be allocated to rewarding SOON Alliance members (on a 1 year listing)
+- 40% of SOON issuance to be allocated to liquidity pools
+- 30% of SOON issuance will be blocked in farming
 
 <p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart.png' width='60%'></p>
 
 ## Crowdsale
 
-Crowdsale в размере 10% от общей эмиссии токена SOON будет проходить с 15.12.2021 0:00 UTC по 19.12.2021 24:00 UTC
+Crowdsale in the amount of 10% of the total SOON token issue will be held from 15.12.2021 0:00 UTC to 19.12.2021 24:00 UTC
 
-SOON Alliance гарантирует, что в пуле на старте 1 SOON = $1.5
+SOON Alliance guarantees that in the pool at the start 1 SOON = $1.5
 
-Объявить 5-ти дневный Crowdsale.
+Declare a 5-day Crowdsale.
 
-В первый день сбора продаем 1 SOON по $0.8 <br>
-Во второй день 1 SOON уже стоит $0.9 <br>
-В третий $1 <br>
-В четвертый $1.1 <br>
-В пятый $1.2 <br>
+On the first day of collection we sell 1 SOON for $0.8 <br>
+On the second day, 1 SOON already costs $0.9 <br>
+On third $1 <br>
+On fourth $1.1 <br>
+On fifth $1.2 <br>
 
-На все проданные токены SOON будет наложен вестинг для избавления от риска дампа в пуле ликвидности.
+All SOON tokens sold will be vested to eliminate the risk of dumping in the liquidity pool.
 
-| День Crowdsale | Стоимость 1 SOON | Вестинг |
+| Crowdsale day | Cost of 1 SOON | Vesting |
 |:----------:|:----------:|:----------:|
-| 15.12.2021 | $0.8 | 6 месяцев |
-| 16.12.2021 | $0.9 | 5 месяцев |
-| 17.12.2021 | $1 | 4 месяца |
-| 18.12.2021 | $1.1 | 3 месяца |
-| 19.12.2021 | $1.2 | 2 месяца |
+| 15.12.2021 | $0.8 | 6 months |
+| 16.12.2021 | $0.9 | 5 months |
+| 17.12.2021 | $1 | 4 months |
+| 18.12.2021 | $1.1 | 3 months |
+| 19.12.2021 | $1.2 | 2 months |
 
-> Объясняем, почему так. 
-> Исходя из того, сколько монет «Пользователь» купит на Crowdsale на $100.
+> We explain why this is the case. 
+> Based on how many coins the "User" will buy on Crowdsale for $100.
 >
-> В первый день это может быть 125 SOON
-> А в пятый день это может быть всего 83.3333 SOON
+> On the first day it might be 125 SOON
+> And on the fifth day it might be only 83.3333 SOON
 > 
-> Значит, для того, чтоб минимизировать риски, с большим количеством эмиссии на рынке и снижении цены токена SOON, в первый день должен быть максимальный вестинг по месяцам, нежели в пятый день.
+> So, in order to minimize the risks, with more issuance in the market and a lower SOON token price, the first day should have the maximum vesting per month than the fifth day.
 
 <p align='center'><img src='https://raw.githubusercontent.com/SOONTOKEN/soontoken.github.io/main/img/chart2.png' width='70%'></p>
 
-Сбор средств будет проходить в токене USDT (TIP3/Broxus) на адрес мульти-сигнатурного кошелька SOON Alliance
+Fundraising will take place in USDT token (TIP3/Broxus) to the SOON Alliance multi-signature wallet address
 
 [0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2](https://tonscan.io/accounts/0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2)
 
-По итогам проведенного Crowdsale будут подведены итоги в видео формате 20.12.2021 в [@EverBroadcast](https://t.me/EverBroadcast)
+The results of the Crowdsale will be summarized in a video format 20.12.2021 in [@EverBroadcast](https://t.me/EverBroadcast)
 
-Так-же, будет обозначена и выпущена конечная эмиссия токена SOON, Root owner будет передан на неконтролируемый смарт-контракт "Black hole", созданы и распределены между участниками Crowdsale системные токены для [вестинга](/vesting/).
+Also, the final SOON token issue will be designated and issued, the Root owner will be transferred to the uncontrolled "Black hole" smart contract, and system tokens will be created and distributed to Crowdsale members for [vesting](/vesting/).
 
 > ⚠️ Participation in the Crowdsale is prohibited for residents of the United States and residents of Singapore.
 
-## Выпуск эмиссии токена
+## Token issuance
 
-Выпустить эмиссию токена, с учетом того, что все проданные на Crowdsale токены равняются 10% общей эмиссии.
+Issuing a token issue, given that all tokens sold on Crowdsale equal 10% of the total issue.
 
-## Создание мульти-сигнатурного кошелька SOON Alliance
+## Creating multi-signature SOON Alliance wallet
 
-Создать мульти-сигнатурный кошелек SOON Alliance, для управления токеном SOON и проведения голосований.
+Create a multi-signature SOON Alliance wallet, to manage the SOON token and conduct votes.
 
-## Вознаграждение участникам SOON Alliance
+## Rewards for SOON Alliance members
 
-Выделить 10% токенов SOON, от общей эмиссии, с вестингом на 1 год, на вознаграждение участникам SOON Alliance, в равных долях.
+Allocate 10% of SOON tokens, of the total issue, with a 1-year vesting period, to reward SOON Alliance members, in equal shares.
 
-## Выделение токенов на маркетинг
+## Allocation tokens for marketing
 
-Выделить 10% токенов SOON на проведение медиа-кампаний по распространению токена SOON. (Акции, реклама, конкурсы, airdrop)
+Allocate 10% of SOON tokens for media campaigns to distribute SOON token. (Promotions, advertising, contests, airdrop)
 
-## Пул ликвидности и фарминг
+## Liquidity pool and farming
 
-Выделить 40% эмиссии токена SOON на создание пулов ликвидности.
+Allocate 40% of the SOON token issue to liquidity pooling.
 
-Выделить 30% эмиссии токена SOON на создание фарминга в пулах ликвидности.
+Allocate 30% of the SOON token issue to the creation of farming in liquidity pools.
 
-Выделить 60 EVER на создание системных токенов для [вестинга](/vesting/) (по 5 EVER на каждый токен)
+Allocate 60 EVER to the creation of system tokens for [vesting](/vesting/) (5 EVER for each token)
 
-Выделить 60 EVER на создание пар системных токенов на tonswap.io для создания [вестинга](/vesting/). 
+Allocate 60 EVER to create pairs of system tokens on tonswap.io to create [vesting](/vesting/). 
 
-Выделить 100 EVER на оплату комиссии транзакций.
+Allocate 100 EVER to pay transaction fees.
 
-## Создание пула ликвидности
+## Liquidity pool creation
 
-Создать пул ликвидности в паре с USDT (TIP-3/Broxus) на tonswap.io в соотношении 1 SOON / $1.5 к полученным в ходе проведения Crowdsale токенам USDT
+Create a liquidity pool paired with USDT (TIP-3/Broxus) on tonswap.io at a ratio of 1 SOON / $1.5 to USDT tokens received during Crowdsale
 
-Первое, что сделает SOON Alliance после создания пула SOON/USDT - отправит свои LP токены на неконтролируемый смарт-контракт "Black Hole"
+The first thing the SOON Alliance will do after creating the SOON/USDT pool is to send its LP tokens to the unmonitored "Black Hole" smart contract
 
-## Root токена SOON
+## SOON token Root
 
-Управление токеном SOON будет передано на адрес смарт-контракта «черной дыры», для предотвращения появления новой эмиссии токена SOON на рынке. 
+SOON token control will be transferred to the Black Hole smart contract address, to prevent a new SOON token issue from entering the market. 
 
 **Black hole:**
 [-1:EFD5A14409A8A129686114FC092525FDDD508F1EA56D1B649A3A695D3A5B188C](https://tonscan.io/accounts/-1:EFD5A14409A8A129686114FC092525FDDD508F1EA56D1B649A3A695D3A5B188C)
 
-## Коллаборация с токенами не из WhiteList от Broxus
+## Collaboration with non-WhiteList tokens from Broxus
 
-Коллаборация с токенами не из WhiteList от Broxus возможно при выполнении этими токенами ряда условий:
-1. Токен не должен соответствовать критериям экзит-скама.
-2. Токен должен иметь TVL на tonswap.io не ниже $10 000.
-3. Токен должен иметь минимум одну пару с токеном из WhiteList от Broxus.
+Collaboration with tokens not from Broxus WhiteList is possible if these tokens meet a number of conditions:
+1. the token must not meet the criteria of an exit scam.
+2. the token must have a TVL on tonswap.io of at least $10,000.
+3. token must have at least one pairing with a Broxus WhiteList token.
 
-## TVL токена SOON > $100 000
+## SOON token TVL > $100 000
 
-Первостепенная цель SOON Alliance, для успешного роста и укрепления позиций токена SOON - рост TVL токена выше $100 000
+The primary goal of SOON Alliance, to successfully grow and strengthen the position of SOON token is to get the TVL of the token above $100,000
 
-## Листинг на tonswap.io в WhiteList
+## Listing on tonswap.io in WhiteList
 
-Условия попадания токена SOON в WhiteList от Broxus:
+Conditions for getting SOON token on Broxus' WhiteList:
 
-1. Веб-сайт проекта должен существовать, быть доступен более 90 % времени и последовательно объяснять суть проекта потенциальным и существующим пользователям и инвесторам;
-2. Контактная информация для проекта должна быть актуальной, а время ответа команды не должно превышать двух рабочих дней;
-3. Проект должен создать пул ликвидности своего токена для сопряжения с WTON (по крайней мере) и гарантировать, что сумма WTON в пуле во все времена превышает эквивалент 100 тыс. долларов США;
-4. Проект должен открыто публиковать свои источники (включая смарт-контракты) на GitHub и проверять все смарт-контракты у соответствующих исследователей блокчейна (tonscan.io, etherscan.io, bscscan.com и т.д.);
-5. Токен проекта должен соответствовать стандарту TIP-3/Broxus.
+1. The project website must exist, be available more than 90% of the time and consistently explain the essence of the project to potential and existing users and investors;
+2. Contact information for the project must be current and the team's response time must not exceed two business days;
+3. The project must create a pool of liquidity for its token to pair with WTON (at least) and ensure that the amount of WTON in the pool at all times exceeds the equivalent of $100k;
+4. The project must openly publish its sources (including smart contracts) on GitHub and verify all smart contracts with relevant blockchain researchers (tonscan.io, etherscan.io, bscscan.com, etc.);
+5. The project token must comply with the TIP-3/Broxus standard.
 
 ## SOON Alliance
 
-SOON Alliance - группа первых держателей токена SOON, получивших свои токены с помощью  AirDrop и объединившихся для того, чтоб совместно продвигать токен SOON.
+SOON Alliance is a group of early SOON token holders who received their tokens through AirDrop and have come together to jointly promote the SOON token.
 
-**Создатель токена:**
+**Token creator:**
 
-| Telegram | Адрес кошелька |
+| Telegram | Wallet address |
 |:----------:|:----------:|
 | [@andrew_vinter](https://t.me/andrew_vinter) | [0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980](https://tonscan.io/accounts/0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980) |
 
-**Адрес мульти-сигнатурного кошелька SOON Alliance:**
+**SOON Alliance multi-signature wallet address:**
 
-| Telegram | Адрес кошелька |
+| Telegram | Wallet address |
 |:----------:|:----------:|
 | SOON Alliance | [0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2](https://tonscan.io/accounts/0:5c906a04946cec99de9bae1ca0bf041e441f44684c75c31bcb5974b480805fa2) |
 
-**Участники SOON Alliance:**
+**SOON Alliance members:**
 
-| Telegram | Адрес кошелька |
+| Telegram | Wallet address |
 |:----------:|:----------:|
 | [@andrew_vinter](https://t.me/andrew_vinter) | [0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980](https://tonscan.io/accounts/0:0ab4b5311b2bfadf881b2937d1aefd883df96a89f6404795c6ba3d844c9a3980) |
 | [@SOKOL491](https://t.me/SOKOL491) | [0:cd26b47ebf79788924a057c39efd639107c3ad18b5de67bf5f3eb14812214433](https://tonscan.io/accounts/0:cd26b47ebf79788924a057c39efd639107c3ad18b5de67bf5f3eb14812214433) |
@@ -174,15 +174,15 @@ SOON Alliance - группа первых держателей токена SOON
 | [@tontikiton](https://t.me/tontikiton) | [0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820](https://tonscan.io/accounts/0:34c169f99c6a8a1d2d290e5e50ed074f1faeb339a6fc4a3cdd647659335d9820) |
 | [@Angel_108](https://t.me/Angel_108) | [0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea](https://tonscan.io/accounts/0:076c72e3ff6473d1b16edbb1bcec596f4be6f86c3f8845339d717d9f32e33bea) |
 
-> Личные средства отдельных участников SOON Alliance являются их собственностью, которой они в праве распоряжаться на свое усмотрение.
+> The personal assets of the individual SOON Alliance members are their property and they have the right to dispose of them as they see fit.
 > 
-> Средства, находящиеся на мульти-сигнатурном кошельке SOON Alliance, являются собственностью SOON Alliance. Управление средствами проходят путем голосования всех учатсников SOON Alliance.
+> Funds in the SOON Alliance multi-signature wallet are the property of the SOON Alliance. Funds are managed by a vote of all SOON Alliance members.
 
-## Контакты
+## Contact
 
-Telegram чат - [@soon_chat](https://t.me/soon_chat)
+Telegram chat - [@soon_chat](https://t.me/soon_chat)
 
-Telegram канал - [@SOONtoken](https://t.me/SOONtoken)
+Telegram channel - [@SOONtoken](https://t.me/SOONtoken)
 
 Twitter - [@SOON_token](https://twitter.com/SOON_token)
 
